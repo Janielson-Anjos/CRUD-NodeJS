@@ -1,5 +1,4 @@
 const readline = require("readline-sync");
-// iuuuytt
 let rodar = true;
 
 let gerador_id = 2;
