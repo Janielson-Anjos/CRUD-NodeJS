@@ -1,5 +1,5 @@
 const readline = require("readline-sync");
-
+//ffghdssdf
 let rodar = true;
 
 let gerador_id = 2;
